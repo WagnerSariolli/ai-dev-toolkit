@@ -71,3 +71,16 @@ chmod +x aitk
 ```bash
 ./aitk --help
 ```
+
+Etapa 01:
+ - [x] Configurar o Ai Commit 
+ - [x] Configurar o Ai Terminal Builder
+ - [x] Configurar extensão do Code GPT	
+
+
+Referencia:
+Livro - Mermaid JS - Creating Software with Modern Diagramming Techniques: Build Better Software with Mermaid
+
+Como deixar o modelos LLM mais deterministico?
+Temperature - 0.0
+Seed - 42
